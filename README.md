@@ -75,9 +75,9 @@ To get the app up and running, execute the following commands on your EC2
 instance:
 
 ```sh
-curl https://raw.github.com/startup-class/setup/master/setup.sh | bash
+curl https://raw.github.com/5x5x5x5/setup/master/setup.sh | bash
 exit # and then log in again
-git clone https://github.com/startup-class/bitstarter-leaderboard.git
+git clone https://github.com/5x5x5x5/bitstarter-leaderboard.git
 cd bitstarter-leaderboard
 ./setup-ssjs.sh
 ```
